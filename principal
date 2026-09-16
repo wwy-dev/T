@@ -1,0 +1,251 @@
+{
+  "name": "Tung sahur (Mint Dark)",
+  "description": "Sahur Mint Edition",
+  "authors": [
+    {
+      "name": "wwy-dev",
+      "id": "000000000000"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": [
+      "#020A05"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#05140A"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#020A05"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#05140A"
+    ],
+    "DIVIDER_STRONG": [
+      "#000000"
+    ],
+    "DIVIDER_SUBTLE": [
+      "#000000"
+    ],
+    "BORDER_SUBTLE": [
+      "#05140A"
+    ],
+    "SPINE_DEFAULT": [
+      "#000000"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#05140A"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#05140A"
+    ],
+    "STAGE_CARD_PILL_BG": [
+      "#020A05"
+    ],
+    "STATUS_DANGER": [
+      "#ff6161"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#05140A"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#FFFFFF"
+    ],
+    "STATUS_DND": [
+      "#ff6161"
+    ],
+    "STATUS_IDLE": [
+      "#ffbc5b"
+    ],
+    "STATUS_OFFLINE": [
+      "#202020"
+    ],
+    "STATUS_ONLINE": [
+      "#00FFA3"
+    ],
+    "STATUS_POSITIVE": [
+      "#00FFA3"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#05140A"
+    ],
+    "STATUS_POSITIVE_TEXT": [
+      "#000000"
+    ],
+    "STATUS_SPEAKING": [
+      "#00FFA3"
+    ],
+    "STATUS_WARNING": [
+      "#ffbc5b"
+    ],
+    "STATUS_WARNING_BACKGROUND": [
+      "#05140A"
+    ],
+    "STATUS_WARNING_TEXT": [
+      "#000000"
+    ],
+    "TEXT_BRAND": [
+      "#00FFA3"
+    ],
+    "TEXT_DANGER": [
+      "#ff6161"
+    ],
+    "TEXT_LINK": [
+      "#00FFA3"
+    ],
+    "TEXT_LINK_LOW_SATURATION": [
+      "#00CC82"
+    ],
+    "TEXT_LOW_CONTRAST": [
+      "#B0C4BC"
+    ],
+    "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
+      "#B0C4BC"
+    ],
+    "TEXT_MUTED": [
+      "#7f7f7f"
+    ],
+    "TEXT_MUTED_ON_DEFAULT": [
+      "#FFFFFF"
+    ],
+    "TEXT_NORMAL": [
+      "#FFFFFF"
+    ],
+    "TEXT_POSITIVE": [
+      "#00FFA3"
+    ],
+    "TEXT_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "TEXT_SECONDARY": [
+      "#B0C4BC"
+    ],
+    "TEXT_WARNING": [
+      "#ffbc5b"
+    ],
+    "THEME_LOCKED_BLUR_FALLBACK": [
+      "#000000"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#05140A"
+    ],
+    "TOAST_BG": [
+      "#020A05"
+    ],
+    "TYPING_INDICATOR_BG": [
+      "#05140A"
+    ],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "#020A05"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
+      "#020A05"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
+      "#020A05"
+    ],
+    "WHITE": [
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#00FFA3"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#020A05"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#00FFA3"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#05140A"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#05140A"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#020A05"
+    ],
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "#0D2E1A"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#05140A"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#020A05"
+    ],
+    "MENTION_BADGE": [
+      "#00FFA3"
+    ],
+    "REDESIGN_MENTION_BADGE": [
+      "#00FFA3"
+    ]
+  },
+  "rawColors": {
+    "BLACK_500": "#00000050",
+    "BRAND_260": "#00FFA3",
+    "BRAND_360": "#00FFA3",
+    "BRAND_560": "#020A05",
+    "BRAND_500": "#05140A",
+    "ORANGE_260": "#FFFFFF",
+    "ORANGE_300": "#FFFFFF",
+    "ORANGE_330": "#FFFFFF",
+    "ORANGE_345": "#FFFFFF",
+    "ORANGE_360": "#FFFFFF",
+    "ORANGE_400": "#FFFFFF",
+    "ORANGE_430": "#FFFFFF",
+    "ORANGE_460": "#FFFFFF",
+    "ORANGE_500": "#FFFFFF",
+    "ORANGE_530": "#FFFFFF",
+    "ORANGE_560": "#FFFFFF",
+    "ORANGE_600": "#FFFFFF",
+    "ORANGE_630": "#FFFFFF",
+    "ORANGE_660": "#FFFFFF",
+    "ORANGE_700": "#FFFFFF",
+    "YELLOW_260": "#FFFFFF",
+    "YELLOW_300": "#FFFFFF",
+    "YELLOW_330": "#FFFFFF",
+    "YELLOW_345": "#FFFFFF",
+    "YELLOW_360": "#FFFFFF",
+    "YELLOW_400": "#FFFFFF",
+    "YELLOW_430": "#FFFFFF",
+    "YELLOW_460": "#FFFFFF",
+    "YELLOW_500": "#FFFFFF",
+    "YELLOW_530": "#FFFFFF",
+    "YELLOW_560": "#FFFFFF",
+    "YELLOW_600": "#FFFFFF",
+    "YELLOW_630": "#FFFFFF",
+    "YELLOW_660": "#FFFFFF",
+    "YELLOW_700": "#FFFFFF",
+    "RED_430": "#00FFA3",
+    "PLUM_14": "#05140A",
+    "PRIMARY_800": "#05140A",
+    "PLUM_1": "#FFFFFF",
+    "PLUM_22": "#020A05",
+    "PRIMARY_660": "#020A05",
+    "PRIMARY_700": "#020A05",
+    "PRIMARY_560": "#020A05",
+    "PRIMARY_600": "#020A05",
+    "PRIMARY_630": "#020A05",
+    "PLUM_15": "#05140A",
+    "PLUM_17": "#020A05",
+    "PLUM_18": "#020A05",
+    "PLUM_19": "#020A05",
+    "PLUM_20": "#020A05",
+    "PLUM_23": "#020A05",
+    "PLUM_24": "#020A05"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/rem.jpg",
+    "blur": 0.5,
+    "alpha": 0.25,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+  "spec": 2,
+  "createdAt": "2026-10-05",
+  "source": "local"
+}
